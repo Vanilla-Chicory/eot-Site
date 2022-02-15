@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    justify-content: left;
+    overflow:auto;
+}
+
+#NavBar {
+    margin: 0px;
+    box-sizing: border-box;
+    border: solid black 3px;
+    background-color: rgb(22, 147, 185);
+    overflow:hidden;
+    justify-content:center;
+    padding-left: 100%;
+    float: right;
+}
+
+
+#NavSearch {
+    background-color: silver;
+    color: black;
+    margin-left: 0;
+    margin-right: 0;
+    overflow:hidden;
+    box-sizing: border-box;
+    border: solid black 2px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 25px;
+    font-size: 1rem;
+}
